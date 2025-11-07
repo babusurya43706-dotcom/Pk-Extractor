@@ -4,47 +4,47 @@
   "repository": "https://github.com/Pod94",
   "env": {
     "API_ID": {
-      "description": "Your Telegram API ID",
+      "description": "23878955",
       "value": "24389326",
       "required": true
     },
     "API_HASH": {
-      "description": "Your Telegram API Hash",
+      "description": "07637a6c4c4566dc3923fa29d6c84b67",
       "value": "e516c423e3edd76854e1c0741863f6f0",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram Bot Token",
+      "description": "8412904773:AAEUwPvKeXtQJRC3Hym2G12SucKnUZpUiN0",
       "value": "7601649831:AAEMQ9chNVKZe2hm4wEHN4nmgBd8vqeOvKI",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your Bot Username",
+      "description": "PKEXTRACTOR1_bot",
       "value": "@DRM_DawnloadHub_bot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Your Telegram User ID (Owner)",
+      "description": "5445688589",
       "value": "8019643178",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "Comma-separated list of sudo users' IDs",
+      "description": "5445688589",
       "value": "8019643178",
       "required": false
     },
     "CHANNEL_ID": {
-      "description": "Your channel ID",
+      "description": "-1003095854449",
       "value": "-1002483597533",
       "required": true
     },
     "MONGO_URL": {
-      "description": "Your MongoDB URL",
+      "description": "mongodb+srv://gpsiwan_db_user:TcjF1I6JdU6ZGu2s@cluster0.pmyfuf7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "value": "mongodb+srv://Demo23:Demo23@cluster0.fjar36c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "PREMIUM_LOGS": {
-      "description": "Flag for premium logs (0 for off, 1 for on)",
+      "description": "-1003095854449",
       "value": "-1002694370609",
       "required": true
     }
